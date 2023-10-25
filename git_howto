@@ -30,3 +30,8 @@ git branch
 ```sh
 git checkout
 ```
+Удаление ветки
+```sh
+git barnch -d<Имя ветки>
+```
+
