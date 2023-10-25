@@ -1,0 +1,28 @@
+
+
+Создание репозитория:
+```sh
+git init
+```
+```sh
+git add
+```
+```sh
+git commit -m 'message'
+```
+```sh
+git log
+```
+```sh
+git log --oneline
+```
+
+перемещение по веткам
+```sh
+git checkout <Имя ветки>
+```
+
+Отображение всех веток
+```sh
+git branch
+```
