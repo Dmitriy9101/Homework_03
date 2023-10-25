@@ -16,7 +16,6 @@ git log
 ```sh
 git log --oneline
 ```
-
 перемещение по веткам
 ```sh
 git checkout <Имя_ветки>
@@ -26,4 +25,8 @@ git checkout <Имя_ветки>
 Отображение всех веток
 ```sh
 git branch
+```
+
+```sh
+git checkout
 ```
