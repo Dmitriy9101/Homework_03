@@ -18,7 +18,7 @@ git log --oneline
 ```
 перемещение по веткам
 ```sh
-git checkout <Имя_ветки>
+git checkout <Имя_ветки name>
 >>>>>>> comand
 ```
 
