@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\bin\Debug\net7.0\Example_002_HelloUser.exe
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\bin\Debug\net7.0\Example_002_HelloUser.deps.json
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\bin\Debug\net7.0\Example_002_HelloUser.runtimeconfig.json
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\bin\Debug\net7.0\Example_002_HelloUser.dll
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\bin\Debug\net7.0\Example_002_HelloUser.pdb
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\obj\Debug\net7.0\Example_002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\obj\Debug\net7.0\Example_002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\obj\Debug\net7.0\Example_002_HelloUser.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\obj\Debug\net7.0\Example_002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\obj\Debug\net7.0\Example_002_HelloUser.dll
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\obj\Debug\net7.0\refint\Example_002_HelloUser.dll
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\obj\Debug\net7.0\Example_002_HelloUser.pdb
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\obj\Debug\net7.0\Example_002_HelloUser.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\git education\Examples\Example_002_HelloUser\obj\Debug\net7.0\ref\Example_002_HelloUser.dll

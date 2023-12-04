@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\git education\Seminar_04\obj\Debug\net7.0\Seminar_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\git education\Seminar_04\obj\Debug\net7.0\Seminar_04.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\git education\Seminar_04\obj\Debug\net7.0\Seminar_04.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\git education\Seminar_04\obj\Debug\net7.0\Seminar_04.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\git education\Seminar_04\bin\Debug\net7.0\Seminar_04.exe
+C:\Users\dmitr\Desktop\git education\Seminar_04\bin\Debug\net7.0\Seminar_04.deps.json
+C:\Users\dmitr\Desktop\git education\Seminar_04\bin\Debug\net7.0\Seminar_04.runtimeconfig.json
+C:\Users\dmitr\Desktop\git education\Seminar_04\bin\Debug\net7.0\Seminar_04.dll
+C:\Users\dmitr\Desktop\git education\Seminar_04\bin\Debug\net7.0\Seminar_04.pdb
+C:\Users\dmitr\Desktop\git education\Seminar_04\obj\Debug\net7.0\Seminar_04.dll
+C:\Users\dmitr\Desktop\git education\Seminar_04\obj\Debug\net7.0\refint\Seminar_04.dll
+C:\Users\dmitr\Desktop\git education\Seminar_04\obj\Debug\net7.0\Seminar_04.pdb
+C:\Users\dmitr\Desktop\git education\Seminar_04\obj\Debug\net7.0\Seminar_04.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\git education\Seminar_04\obj\Debug\net7.0\ref\Seminar_04.dll
