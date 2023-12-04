@@ -4,33 +4,33 @@
 
 
 
-int[,] CreateMatrix(int rows, int colums, int min, int max)
-{
-    int[,] matrix = new int[rows, colums];
-    // Матрица размером rows на colums
-    Random rand = new Random();
-    for (int i = 0; i < rows; i++) //i < matrix.GetLength(0), строчки
-    {
-        // i, j, m, k
-        for (int j = 0; j < colums; j++) // столбцы j < matrix.GetLength(1)
-        {
-            matrix[i, j] = rand.Next(min, max + 1);
-        }
-    }
-    return matrix;
-}
-void PrintMatrix(int[,] matr)
-{
-    //[rows, columns]
-    for (int i = 0; i < matr.GetLength(0); i++)
-    {
-        for (int j = 0; j < matr.GetLength(1); j++)
-        {
-            Console.Write($"{matr[i, j]}\t"); // \t - это 4 пробела
-        }
-        Console.WriteLine();
-    }
-}
+// int[,] CreateMatrix(int rows, int colums, int min, int max)
+// {
+//     int[,] matrix = new int[rows, colums];
+//     // Матрица размером rows на colums
+//     Random rand = new Random();
+//     for (int i = 0; i < rows; i++) //i < matrix.GetLength(0), строчки
+//     {
+//         // i, j, m, k
+//         for (int j = 0; j < colums; j++) // столбцы j < matrix.GetLength(1)
+//         {
+//             matrix[i, j] = rand.Next(min, max + 1);
+//         }
+//     }
+//     return matrix;
+// }
+// void PrintMatrix(int[,] matr)
+// {
+//     //[rows, columns]
+//     for (int i = 0; i < matr.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < matr.GetLength(1); j++)
+//         {
+//             Console.Write($"{matr[i, j]}\t"); // \t - это 4 пробела
+//         }
+//         Console.WriteLine();
+//     }
+// }
 
 // Console.WriteLine("Введите размеры массива ");
 // int i = Convert.ToInt32(Console.ReadLine());
