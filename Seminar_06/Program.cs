@@ -5,10 +5,6 @@
 // cтрочка- массив символов, символ char
 // [a b c d] = > abcd
 
-// using System.Drawing;
-// using System.Linq.Expressions;
-// using System.Reflection.Metadata.Ecma335;
-
 // string CharArray(char[,] array);
 // {
 //     string result = String.Empty; // указываем пустую строчку ""
@@ -16,7 +12,6 @@
 //     {
 //         for (int j = 0; j < 5; j++)
 // }
-
 // char[,] array = { "H", "E", "L", "L", "O" };
 // string result = CharArray(chars);
 // Console.WriteLine($"Result: {result}");
