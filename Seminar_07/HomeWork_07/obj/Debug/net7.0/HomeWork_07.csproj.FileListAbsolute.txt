@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\bin\Debug\net7.0\HomeWork_07.exe
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\bin\Debug\net7.0\HomeWork_07.deps.json
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\bin\Debug\net7.0\HomeWork_07.runtimeconfig.json
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\bin\Debug\net7.0\HomeWork_07.dll
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\bin\Debug\net7.0\HomeWork_07.pdb
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\obj\Debug\net7.0\HomeWork_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\obj\Debug\net7.0\HomeWork_07.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\obj\Debug\net7.0\HomeWork_07.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\obj\Debug\net7.0\HomeWork_07.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\obj\Debug\net7.0\HomeWork_07.dll
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\obj\Debug\net7.0\refint\HomeWork_07.dll
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\obj\Debug\net7.0\HomeWork_07.pdb
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\obj\Debug\net7.0\HomeWork_07.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\git education\Seminar_07\HomeWork_07\obj\Debug\net7.0\ref\HomeWork_07.dll
