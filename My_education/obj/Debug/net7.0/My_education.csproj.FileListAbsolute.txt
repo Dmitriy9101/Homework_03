@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\git education\My_education\obj\Debug\net7.0\My_education.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\git education\My_education\obj\Debug\net7.0\My_education.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\git education\My_education\obj\Debug\net7.0\My_education.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\git education\My_education\obj\Debug\net7.0\My_education.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\git education\My_education\bin\Debug\net7.0\My_education.exe
+C:\Users\dmitr\Desktop\git education\My_education\bin\Debug\net7.0\My_education.deps.json
+C:\Users\dmitr\Desktop\git education\My_education\bin\Debug\net7.0\My_education.runtimeconfig.json
+C:\Users\dmitr\Desktop\git education\My_education\bin\Debug\net7.0\My_education.dll
+C:\Users\dmitr\Desktop\git education\My_education\bin\Debug\net7.0\My_education.pdb
+C:\Users\dmitr\Desktop\git education\My_education\obj\Debug\net7.0\My_education.dll
+C:\Users\dmitr\Desktop\git education\My_education\obj\Debug\net7.0\refint\My_education.dll
+C:\Users\dmitr\Desktop\git education\My_education\obj\Debug\net7.0\My_education.pdb
+C:\Users\dmitr\Desktop\git education\My_education\obj\Debug\net7.0\My_education.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\git education\My_education\obj\Debug\net7.0\ref\My_education.dll

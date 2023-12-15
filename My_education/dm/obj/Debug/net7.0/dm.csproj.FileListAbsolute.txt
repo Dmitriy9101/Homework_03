@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\git education\My_education\dm\bin\Debug\net7.0\dm.exe
+C:\Users\dmitr\Desktop\git education\My_education\dm\bin\Debug\net7.0\dm.deps.json
+C:\Users\dmitr\Desktop\git education\My_education\dm\bin\Debug\net7.0\dm.runtimeconfig.json
+C:\Users\dmitr\Desktop\git education\My_education\dm\bin\Debug\net7.0\dm.dll
+C:\Users\dmitr\Desktop\git education\My_education\dm\bin\Debug\net7.0\dm.pdb
+C:\Users\dmitr\Desktop\git education\My_education\dm\obj\Debug\net7.0\dm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\git education\My_education\dm\obj\Debug\net7.0\dm.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\git education\My_education\dm\obj\Debug\net7.0\dm.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\git education\My_education\dm\obj\Debug\net7.0\dm.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\git education\My_education\dm\obj\Debug\net7.0\dm.dll
+C:\Users\dmitr\Desktop\git education\My_education\dm\obj\Debug\net7.0\refint\dm.dll
+C:\Users\dmitr\Desktop\git education\My_education\dm\obj\Debug\net7.0\dm.pdb
+C:\Users\dmitr\Desktop\git education\My_education\dm\obj\Debug\net7.0\dm.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\git education\My_education\dm\obj\Debug\net7.0\ref\dm.dll

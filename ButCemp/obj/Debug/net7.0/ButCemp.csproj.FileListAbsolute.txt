@@ -1,0 +1,14 @@
+C:\Users\dmitr\Desktop\git education\ButCemp\bin\Debug\net7.0\ButCemp.exe
+C:\Users\dmitr\Desktop\git education\ButCemp\bin\Debug\net7.0\ButCemp.deps.json
+C:\Users\dmitr\Desktop\git education\ButCemp\bin\Debug\net7.0\ButCemp.runtimeconfig.json
+C:\Users\dmitr\Desktop\git education\ButCemp\bin\Debug\net7.0\ButCemp.dll
+C:\Users\dmitr\Desktop\git education\ButCemp\bin\Debug\net7.0\ButCemp.pdb
+C:\Users\dmitr\Desktop\git education\ButCemp\obj\Debug\net7.0\ButCemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Desktop\git education\ButCemp\obj\Debug\net7.0\ButCemp.AssemblyInfoInputs.cache
+C:\Users\dmitr\Desktop\git education\ButCemp\obj\Debug\net7.0\ButCemp.AssemblyInfo.cs
+C:\Users\dmitr\Desktop\git education\ButCemp\obj\Debug\net7.0\ButCemp.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\git education\ButCemp\obj\Debug\net7.0\ButCemp.dll
+C:\Users\dmitr\Desktop\git education\ButCemp\obj\Debug\net7.0\refint\ButCemp.dll
+C:\Users\dmitr\Desktop\git education\ButCemp\obj\Debug\net7.0\ButCemp.pdb
+C:\Users\dmitr\Desktop\git education\ButCemp\obj\Debug\net7.0\ButCemp.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\git education\ButCemp\obj\Debug\net7.0\ref\ButCemp.dll
