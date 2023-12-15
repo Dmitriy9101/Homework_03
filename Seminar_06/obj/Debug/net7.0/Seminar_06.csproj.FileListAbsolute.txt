@@ -2,3 +2,13 @@ C:\Users\dmitr\Desktop\git education\Seminar_06\obj\Debug\net7.0\Seminar_06.Gene
 C:\Users\dmitr\Desktop\git education\Seminar_06\obj\Debug\net7.0\Seminar_06.AssemblyInfoInputs.cache
 C:\Users\dmitr\Desktop\git education\Seminar_06\obj\Debug\net7.0\Seminar_06.AssemblyInfo.cs
 C:\Users\dmitr\Desktop\git education\Seminar_06\obj\Debug\net7.0\Seminar_06.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Desktop\git education\Seminar_06\bin\Debug\net7.0\Seminar_06.exe
+C:\Users\dmitr\Desktop\git education\Seminar_06\bin\Debug\net7.0\Seminar_06.deps.json
+C:\Users\dmitr\Desktop\git education\Seminar_06\bin\Debug\net7.0\Seminar_06.runtimeconfig.json
+C:\Users\dmitr\Desktop\git education\Seminar_06\bin\Debug\net7.0\Seminar_06.dll
+C:\Users\dmitr\Desktop\git education\Seminar_06\bin\Debug\net7.0\Seminar_06.pdb
+C:\Users\dmitr\Desktop\git education\Seminar_06\obj\Debug\net7.0\Seminar_06.dll
+C:\Users\dmitr\Desktop\git education\Seminar_06\obj\Debug\net7.0\refint\Seminar_06.dll
+C:\Users\dmitr\Desktop\git education\Seminar_06\obj\Debug\net7.0\Seminar_06.pdb
+C:\Users\dmitr\Desktop\git education\Seminar_06\obj\Debug\net7.0\Seminar_06.genruntimeconfig.cache
+C:\Users\dmitr\Desktop\git education\Seminar_06\obj\Debug\net7.0\ref\Seminar_06.dll
