@@ -22,3 +22,4 @@ void PrintArray(string[] array)
 }
 ArrayWith(array1, array2);
 PrintArray(array2);
+//
